@@ -1,5 +1,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://www.pixalatte.xn--com/sitemap-.xml/index.html</loc>
+		<loc>http://pixalatte.com/index.html</loc>
+	</url>
+	<url>
+		<loc>http://pixalatte.com/branding.html</loc>
+	</url>
+	<url>
+		<loc>http://pixalatte.com/websites.html</loc>
+	</url>
+	<url>
+		<loc>http://pixalatte.com/marketing.html</loc>
+	</url>
+	<url>
+		<loc>http://pixalatte.com/social.html</loc>
 	</url>
 </urlset>
