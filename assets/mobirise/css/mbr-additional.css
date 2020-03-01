@@ -2127,6 +2127,7 @@ section.lazy-placeholder:after {
 }
 .cid-rRT0fzuw6n .price-text {
   line-height: 1.5;
+  text-align: left;
 }
 .cid-rRT0fzuw6n .card-title {
   line-height: 1.5;
@@ -2273,6 +2274,7 @@ section.lazy-placeholder:after {
 }
 .cid-rRT0fzuw6n .price {
   color: #133996;
+  text-align: right;
 }
 .cid-rRT0fzuw6n img {
   width: 10%;
